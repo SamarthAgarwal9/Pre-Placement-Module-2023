@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [SAMARTH_AGARWAL](https://leetcode.com/samartha186/)
+- HackerRank: [SAMARTH AGARWAL](https://www.hackerrank.com/cse_1923_b_62)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
